@@ -1,0 +1,24 @@
+{
+  "window": {
+    "width": 1280,
+    "height": 720,
+    "fullscreen": false
+  },
+  "camera": {
+    "index": 0,
+    "width": 640,
+    "height": 480,
+    "motion_sensitivity": 25
+  },
+  "audio": {
+    "rate": 44100,
+    "chunk": 1024,
+    "volume_amplification": 5.0
+  },
+  "visuals": {
+    "max_particles": 1000,
+    "particle_lifetime": 50,
+    "background_waves": 5,
+    "fps": 60
+  }
+}
